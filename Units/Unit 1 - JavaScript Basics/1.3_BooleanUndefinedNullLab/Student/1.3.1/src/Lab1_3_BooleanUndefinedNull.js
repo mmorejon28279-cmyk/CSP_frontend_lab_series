@@ -4,8 +4,14 @@
 
 // TODO 1: Booleans
 // - Create isStudent = true, hasLicense = false
-// - Print results of true || false, true && false, !true
+let isStudent;
+console.log(isStudent)
 
+let hasLicense;
+console.log(hasLicense)
+// - Print results of true || false, true && false, !true
+true || (isStudent)
+false && (hasLiscense)
 // TODO 2: Short-circuit evaluation
 // - Print result of false && (5 > 2)
 // - Print result of true || (2 > 5)
