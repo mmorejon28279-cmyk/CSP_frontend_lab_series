@@ -3,9 +3,21 @@
 */
 
 // TODO 1: if..else with age discounts
+let age = 15;
 
+if (age <= 16) {
+console.log ("Teenager discount.");
+} else if (age >= 65) {
+console.log ("Senior discount");
+} else {
+console.log ("No discount");
+}
 // TODO 2: Nested if with two numbers
+let base = number1
+console.log(base)
 
+let height =  number2
+console.log(height)
 // TODO 3: Switch statement for language greeting
 
 // TODO 4: While loop (1 to 10)
