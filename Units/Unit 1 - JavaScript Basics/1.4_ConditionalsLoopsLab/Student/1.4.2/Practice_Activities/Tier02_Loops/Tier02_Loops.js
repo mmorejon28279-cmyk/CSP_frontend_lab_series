@@ -20,11 +20,23 @@ console.log("TEST - TIER 2")
 // }
 
 //Password
-// let secret = "Explorers";
-// let pw
-// do {
-//     pw = prompt("What is the password?")
-// } while (pw != secret) ;
 
 
-// console.log("You are logged in.")
+
+    // let secret = "Explorers";
+    // let attempt = 1
+    // let pw;
+    // do {
+    //     if (attempt <= 3) {
+    //         pw = prompt("What is the password?")
+    //         attempt++;
+    //     }
+
+    // } while (pw != secret && attempt <= 3);
+
+    // if (pw == secret) {
+    //     console.log("You are logged in.")
+
+    // } else {
+    //     console.log("Sorry youve reached your limit  ")
+    // }
